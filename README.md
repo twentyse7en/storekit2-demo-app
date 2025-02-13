@@ -2,6 +2,8 @@
 
 ![iOS In-app Subscription Tutorial with StoreKit 2 and Swift_iOS In-app Subscription Tutorial with StoreKit 2 and Swift (1)](https://user-images.githubusercontent.com/401294/207304951-99978d23-4f2e-4918-9b9a-1d11c7398fea.png)
 
+The original [blog](https://www.revenuecat.com/blog/engineering/ios-in-app-subscription-tutorial-with-storekit-2-and-swift/#h-implementing-on-device-subscriptions-with-storekit-2-in-swift) is also attached in this repo as pdf.
+
 ## Implementing On-Device Subscriptions with StoreKit 2 in Swift
 
 These steps pair with the blog post. Not every step has a code change involved which is why it appears some steps are missing.
